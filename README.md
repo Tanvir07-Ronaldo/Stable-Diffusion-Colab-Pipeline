@@ -24,7 +24,14 @@ A streamlined Python pipeline for generating AI images from text prompts using t
 4.  Modify the `prompt` variable to whatever you want to visualize (e.g., "An astronaut riding a horse on Mars").
 5.  Run the cell to generate and save your image!
 
+## 📄 License
+
+This project's source code (the Jupyter Notebook) is licensed under the **MIT License**.
+
+However, the underlying model weights (CompVis/stable-diffusion-v1-4) are governed by the **CreativeML OpenRAIL-M License**. Users must adhere to the terms of this license when using the generated output or the model weights themselves.
+
 ---
+*Author: Mohammad Tanvir
 
 ## 🔑 Guide: How to Get a Hugging Face Token
 To use the Stable Diffusion models, you must authenticate with Hugging Face. Follow these steps:
