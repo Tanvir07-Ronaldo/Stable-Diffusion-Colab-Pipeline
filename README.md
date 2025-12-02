@@ -31,7 +31,7 @@ This project's source code (the Jupyter Notebook) is licensed under the **MIT Li
 However, the underlying model weights (CompVis/stable-diffusion-v1-4) are governed by the **CreativeML OpenRAIL-M License**. Users must adhere to the terms of this license when using the generated output or the model weights themselves.
 
 ---
-*Author: Mohammad Tanvir
+Author: Mohammad Tanvir
 
 ## 🔑 Guide: How to Get a Hugging Face Token
 To use the Stable Diffusion models, you must authenticate with Hugging Face. Follow these steps:
